@@ -8,6 +8,7 @@ class UrlShortenerSbApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("URL Shortener and Coding: Test Case running!");
 	}
 
 }
